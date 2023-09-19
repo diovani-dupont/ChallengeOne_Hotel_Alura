@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Sistema de Reservas de Hotel
 
 Aplicativo Java projetado para autenticar e gerenciar reservas de hotel. Este sistema permite que apenas usuários autorizados acessem e modifiquem os detalhes das reservas, garantindo a segurança e a integridade dos dados dos hóspedes.
@@ -166,4 +165,3 @@ Licenciado sob a licença MIT. Consulte o arquivo `LICENSE.md`.
 
 Desenvolvido por Diovani Dupont.
 "# ChallengeOne_Hotel_Alura" 
->>>>>>> f0be7c2a5bacb802e94f8a01e59e74a7c6738773
