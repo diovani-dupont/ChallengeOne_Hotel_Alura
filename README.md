@@ -1,4 +1,4 @@
-# 🚀 Sistema de Reservas de Hotel
+# 🚀 Sistema de Reservas para Hotéis
 
 Aplicativo Java projetado para autenticar e gerenciar reservas de hotel. Este sistema permite que apenas usuários autorizados acessem e modifiquem os detalhes das reservas, garantindo a segurança e a integridade dos dados dos hóspedes.
 
