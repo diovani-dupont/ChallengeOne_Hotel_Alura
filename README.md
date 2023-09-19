@@ -2,6 +2,10 @@
 
 Aplicativo Java projetado para autenticar e gerenciar reservas de hotel. Este sistema permite que apenas usuários autorizados acessem e modifiquem os detalhes das reservas, garantindo a segurança e a integridade dos dados dos hóspedes.
 
+<p align="center">
+![App_Hotel_Alura](https://github.com/diovani-dupont/ChallengeOne_Hotel_Alura/assets/109030838/5f1d5205-59eb-4d68-b17c-1c21d78b5f49)
+</p>
+
 ## 🔍 Características
 
 - Sistema de autenticação robusto.
