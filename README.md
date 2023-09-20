@@ -168,4 +168,11 @@ Licenciado sob a licença MIT. Consulte o arquivo `LICENSE.md`.
 ## 🚀Créditos
 
 Desenvolvido por Diovani Dupont.
+
+<h2 align="center">Recompensa de conclusão do desafio!</h2>
+
+<p align="center">
+  <img src="https://github.com/diovani-dupont/ChallengeOne_Hotel_Alura/assets/109030838/b1d288a4-5d4b-49e4-b378-3a626f788afc">
+</p>
+
 "# ChallengeOne_Hotel_Alura" 
