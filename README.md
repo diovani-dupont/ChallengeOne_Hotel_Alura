@@ -14,7 +14,7 @@ Aplicativo Java projetado para autenticar e gerenciar reservas de hotel. Este si
 - Cálculo automático do valor da reserva com base nos dias de estadia e em uma taxa diária específica.
 - Banco de dados integrado para armazenamento seguro de informações.
 
-- Download da Aplicaçao:
+- Você pode baixar o aplicativo JAR no link abaixo.:
   https://drive.google.com/file/d/1NLQODV77jw2y90ltBmW4H6OnapZwkyBO/view?usp=sharing
 
 ## 🛠️ Arquitetura e Componentes
